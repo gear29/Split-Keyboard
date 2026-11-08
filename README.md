@@ -1,6 +1,6 @@
 # Split-Keyboard
 This is a key board  but 2
-
+firm ware https://github.com/gear29/wireless-split-keyboard-firmware
 
  Wireless Split Keyboard
 
