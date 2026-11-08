@@ -17,7 +17,7 @@
 1. [2026-11-06: Work session](#2026-11-06-work-session)
 2. [2026-11-07: Work session](#2026-11-07-work-session)
 3. [2026-11-08: Work session](#2026-11-08-work-session)
-4. [2026-11-08: Work session](#2026-11-08-work-session)
+4. [2026-11-08: Work session: I followed a modified version of the provided code system for the split keyboard using ChatGPT to have it fine-tuned for my requirements and to minimize fluff. Most of everything went sm](#2026-11-08-work-session-i-followed-a-modified-version-of-the)
 
 ## Design
 
@@ -39,10 +39,10 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/62a61ecb-af65-4456-b52e-fc85739460a7/video.mp4)
 
-### 2026-11-08: Work session
+### 2026-11-08: Work session: I followed a modified version of the provided code system for the split keyboard using ChatGPT to have it fine-tuned for my requirements and to minimize fluff. Most of everything went sm
 
 **0.93h**
 
-Work session
+Work session: I followed a modified version of the provided code system for the split keyboard using ChatGPT to have it fine-tuned for my requirements and to minimize fluff. Most of everything went smoothly, and I was sure to make sure I was aware of what I was putting on my project
 
 [Timelapse](https://lookout.hackclub.com/api/media/0be10f03-b38e-420e-9c54-75ab99f284f0/video.mp4)
