@@ -16,7 +16,7 @@
 
 1. [2026-11-06: Work session](#2026-11-06-work-session)
 2. [2026-11-07: Work session](#2026-11-07-work-session)
-3. [2026-11-08: Work session](#2026-11-08-work-session)
+3. [2026-11-08: Work session. In this session, I finished up the routing on the first half of the PCB, but when I started the second half, I learned you can essentially cross wires if you have them on opposite sides](#2026-11-08-work-session-in-this-session-i-finished-up-the-ro)
 4. [2026-11-08: Work session: I followed a modified version of the provided code system for the split keyboard using ChatGPT to have it fine-tuned for my requirements and to minimize fluff. Most of everything went sm](#2026-11-08-work-session-i-followed-a-modified-version-of-the)
 
 ## Design
@@ -33,9 +33,11 @@
 
 [Timelapse](https://lookout.hackclub.com/api/media/d74de079-7dfa-42c0-8084-07bb6646e66c/video.mp4)
 
-### 2026-11-08: Work session
+### 2026-11-08: Work session. In this session, I finished up the routing on the first half of the PCB, but when I started the second half, I learned you can essentially cross wires if you have them on opposite sides
 
 **2.37h**
+
+Work session. In this session, I finished up the routing on the first half of the PCB, but when I started the second half, I learned you can essentially cross wires if you have them on opposite sides of the PCB, which was a game changer since it allowed much faster and space-efficient progress
 
 [Timelapse](https://lookout.hackclub.com/api/media/62a61ecb-af65-4456-b52e-fc85739460a7/video.mp4)
 
